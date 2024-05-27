@@ -14,7 +14,7 @@ This Arduino program implements a smart parking system using an ESP8266 microcon
 ## Pin Configuration
 - `D0`: Infrared sensor for parking slot 1 (`park1`)
 - `D1`: Infrared sensor for parking slot 2 (`park2`)
-- `D2`: Infrared sensor for gate entry (entry)
+- `D2`: Infrared sensor for gate entry (`entry`)
 - `D3`: Servo motor control
 - `D4`: LED 2 (green)
 - `D5`: LED 1 (red)
