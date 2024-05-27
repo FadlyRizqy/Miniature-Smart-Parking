@@ -31,7 +31,7 @@ This Arduino program implements a smart parking system using an ESP8266 microcon
 2. Load the program onto the ESP8266 microcontroller.
 3. Ensure the hardware components are correctly connected as per the pin configuration.
 4. Connect to an MQTT client in the application to subscribe to the topic `iot_arraydata` to receive updates about the parking slot status.
-   ![App Screenshot](app.jpg)
+   <img alt="App Screenshot" src="App.jpg" />
 
 ## You can view how the IoT works in this video:
 [![Smart Parking System Demo](https://img.youtube.com/vi/83VEg3D-3bI/0.jpg)](https://youtu.be/83VEg3D-3bI?si=NvuTHA3JaO2m4WhP)
